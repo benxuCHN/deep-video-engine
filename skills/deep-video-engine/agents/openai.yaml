@@ -1,0 +1,4 @@
+interface:
+  display_name: "deep-video-engine"
+  short_description: "从频道结构拆解到有据可查的原创旁白、独立分镜与批次生产包"
+  default_prompt: "使用 $deep-video-engine，根据我提供的参考或主题，按本次指定的平台、语言和时长完成所需生产阶段。"
